@@ -6,6 +6,8 @@ public class poppy {
 		// TODO Auto-generated method stub
 		
 		System.out.println("copy");
+		System.out.println("copy");
+		
 
 	}
 
